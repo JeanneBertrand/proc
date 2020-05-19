@@ -1,0 +1,8 @@
+vhdl work "registerbench.vhd"
+vhdl work "pipeline.vhd"
+vhdl work "mux.vhd"
+vhdl work "meminstruc.vhd"
+vhdl work "memdata.vhd"
+vhdl work "lc.vhd"
+vhdl work "alu.vhd"
+vhdl work "processeur.vhd"

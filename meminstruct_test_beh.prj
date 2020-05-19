@@ -1,0 +1,2 @@
+vhdl work "meminstruc.vhd"
+vhdl work "meminstruct_test.vhd"

@@ -1,0 +1,7 @@
+work	"alu.vhd"
+work	"lc.vhd"
+work	"memdata.vhd"
+work	"meminstruc.vhd"
+work	"pipeline.vhd"
+work	"processeur.vhd"
+work	"registerbench.vhd"

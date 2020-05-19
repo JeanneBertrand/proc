@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/ael/processeur_test_isim_beh.exe" -prj "/home/ise/ael/processeur_test_beh.prj" "work.processeur_test" 
